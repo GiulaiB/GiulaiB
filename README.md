@@ -2,13 +2,9 @@
 
 I'm a physics student working at the intersection of history of physics and physics education.
 
-<h3>🌱 What I do </h3>
-
-I'm on a learning journey in data analysis for habitat bioregionalisation. Most of my time right now goes into R: cleaning data, building workflows, keeping plots under control, and trying to maintain a clean repo structure.
-
 <h3>🧰 My toolkit </h3>
 
-- R and QGIS
+- R
 - C++
 - A small but growing interest in Python
 
