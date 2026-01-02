@@ -1,6 +1,6 @@
 <h1>👋 Hey, I'm Giulia </h1>
 
-I'm a physics student working at the intersection of history of physics and physics education.
+I'm a physics student working at the intersection of History of Physics and Physics Education.
 
 <h3>🧰 My toolkit </h3>
 
